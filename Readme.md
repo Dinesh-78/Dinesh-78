@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning AI 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Mern stack Anything
-- ⚡ Fun fact: I speak 3 languages ( English, Telugu, Hindi)
+- ⚡ Fun fact: I speak 3 languages ( English, Telugu, Hindi, Kannada)
 
 
 ### Talk with me, I am available:
